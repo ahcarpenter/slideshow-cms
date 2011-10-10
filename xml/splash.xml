@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+
+	<album title="Nice Edit" description="Super" lgpath="gallery/album2/" tnpath="gallery/album2/" tn="gallery/album2/pg2.jpg">
+
+		<img src="pg2.jpg" title="pg2" caption="caption here"/>
+		
+
+	<img src="black_wallpaper.jpg" title="black_wallpaper.jpg" caption="Add caption."/></album>
+
+	<album title="Here's a great title" lgpath="gallery/album4/" tnpath="gallery/album4/" tn="gallery/album4//pg4.jpg" description="orly?">
+
+		<img src="pg4.jpg" title="very nice" caption="caption here"/>
+		
+		
+
+		
+
+		
+
+		
+	<img src="banksy-hirst.jpg" title="very nice" caption="woo hoo"/>
+	<img src="crowd_surfing_bid_day.jpg" title="crowd_surfing_bid_day.jpg" caption="Add caption."/>
+	<img src="cheesin1.jpg" title="cheesin1.jpg" caption="new caption"/></album>
+</gallery>
